@@ -1,1 +1,2 @@
-# bigquery_cost_optimization
+# BigQuery Cost Optimization
+Partitioning/clustering examples.
